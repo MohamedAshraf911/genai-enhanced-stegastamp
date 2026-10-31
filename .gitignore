@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Training outputs
+checkpoints/
+logs/
+runs/
+*.pth
+*.pt
+*.ckpt
+
+# Datasets
+datasets/
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
